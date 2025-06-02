@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springai_RAG" />
+        <module name="springai-hello" />
+        <module name="springai_Chat" />
+        <module name="springAI_alibaba" />
+        <module name="springai_ollama" />
+        <module name="springai_all" />
+        <module name="springai_function" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springai-hello" target="17" />
+      <module name="springAI_alibaba" target="17" />
+      <module name="springai_all" target="17" />
+      <module name="springai_Chat" target="17" />
+      <module name="springai_function" target="17" />
+      <module name="springai_ollama" target="17" />
+      <module name="springai_RAG" target="17" />
+      <module name="springAIProject" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springAI_alibaba" options="-parameters" />
+      <module name="springai-hello" options="-parameters" />
+      <module name="springai_Chat" options="-parameters" />
+      <module name="springai_RAG" options="-parameters" />
+      <module name="springai_all" options="-parameters" />
+      <module name="springai_function" options="-parameters" />
+      <module name="springai_ollama" options="-parameters" />
+    </option>
+  </component>
+</project>

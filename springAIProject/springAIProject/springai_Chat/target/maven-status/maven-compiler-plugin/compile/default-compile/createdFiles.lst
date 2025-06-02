@@ -1,0 +1,5 @@
+com/atguigu/ai/chat/SpringAIChatApplication.class
+com/atguigu/ai/chat/config/AIConfig.class
+com/atguigu/ai/chat/controller/ChatModelController.class
+com/atguigu/ai/chat/controller/ChatAIController.class
+com/atguigu/ai/chat/controller/ChatController.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springAIProject/springAI_alibaba/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/springai_Chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/springai_RAG/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/springai_all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/springai_function/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/springai_hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/springai_ollama/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAIProject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../local/maven/repository/org/springframework/boot/spring-boot-starter-parent/3.3.8/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

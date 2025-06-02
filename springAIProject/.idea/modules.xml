@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springAIProject/springAIProject.iml" filepath="$PROJECT_DIR$/springAIProject/springAIProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springAI_alibaba.iml" filepath="$PROJECT_DIR$/springAI_alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springAIProject/springai_hello/springai-hello.iml" filepath="$PROJECT_DIR$/springAIProject/springai_hello/springai-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springAIProject/springai_Chat/springai_Chat.iml" filepath="$PROJECT_DIR$/springAIProject/springai_Chat/springai_Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springai_RAG.iml" filepath="$PROJECT_DIR$/springai_RAG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springai_all.iml" filepath="$PROJECT_DIR$/springai_all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springai_function.iml" filepath="$PROJECT_DIR$/springai_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springai_ollama.iml" filepath="$PROJECT_DIR$/springai_ollama.iml" />
+    </modules>
+  </component>
+</project>
